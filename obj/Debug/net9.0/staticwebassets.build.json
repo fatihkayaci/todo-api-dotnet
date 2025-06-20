@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "P7OvYeMN0TtOOcLnIPs0bOjxstiRXGvJBFRQXrKYuo8=",
+  "Source": "todoapi-dotnet",
+  "BasePath": "_content/todoapi-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
