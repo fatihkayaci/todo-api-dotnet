@@ -172,8 +172,10 @@ This project demonstrates:
 
 ## 📧 Contact
 
-**Fatih Kayacı** - [GitHub](https://github.com/fatihkayaci)
-
+**Fatih Kayacı** 
+- [GitHub](https://github.com/fatihkayaci)
+- LinkedIn: [Fatih Kayacı](https://www.linkedin.com/in/fatih-kayaci-79180a28a/)
+- Email: fatihkayaci@yahoo.com
 Project Link: [https://github.com/fatihkayaci/todo-api-dotnet](https://github.com/fatihkayaci/todo-api-dotnet)
 
 ---
